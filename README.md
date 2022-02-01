@@ -1,2 +1,2 @@
 # projetoTeste--git
-Teste de conf. do git
+Teste de configu.
